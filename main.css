@@ -1,0 +1,63 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: white;
+}
+
+header {
+    padding: 50px 20px;
+    border-bottom: 1px solid black;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav {
+    margin-top: 30px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 50px 20px;
+    border-bottom: 1px solid black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.projekter {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.projekt {
+    border: 1px solid black;
+    padding: 20px;
+    width: 200px;
+}
+
+.projekt a {
+    color: black;
+}
+
+footer {
+    padding: 30px;
+}
+
+footer a {
+    color: black;
+    margin: 0 10px;
+}
