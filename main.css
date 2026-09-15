@@ -3,8 +3,8 @@
 body {
     font-family: Arial;
     text-align: center;
-    background-color: white;
-    color: #10288C;
+    background-color: #FFFFFF;
+    color: #1D1D1F;
     margin: 0;
 }
 
@@ -13,13 +13,13 @@ body {
 
 header {
     padding: 50px 20px;
-    background-color: #CBE2FE;
-    border-bottom: 4px solid #FFE8F0FF;
+    background-color: #F5F5F7;
+    border-bottom: 1px solid #6E6E73;
 }
 
 header h1 {
     margin-bottom: 10px;
-    color: #10288C;
+    color: #1D1D1F;
 }
 
 
@@ -30,13 +30,13 @@ nav {
 }
 
 nav a {
-    color: #10288C;
+    color: #1D1D1F;
     text-decoration: none;
     margin: 0 15px;
 }
 
 nav a:hover {
-    color: #000000;
+    color: #0071E3;
     text-decoration: underline;
 }
 
@@ -45,39 +45,39 @@ nav a:hover {
 
 section {
     padding: 50px 20px;
-    border-bottom: 1px solid #CBE2FE;
+    border-bottom: 1px solid #F5F5F7;
 }
 
 section h2 {
-    color: #4B0090;
+    color: #1D1D1F;
 }
 
 
 /* OM MIG */
 
 #ommig {
-    background-color: white;
+    background-color: #FFFFFF;
 }
 
 
 /* UDDANNELSE */
 
 #uddannelse {
-    background-color: #FFE8F0FF;
+    background-color: #F5F5F7;
 }
 
 
 /* ARBEJDSERFARING */
 
 #jobs {
-    background-color: white;
+    background-color: #FFFFFF;
 }
 
 
 /* PROJEKTER */
 
 #projekter {
-    background-color: #CBE2FE;
+    background-color: #F5F5F7;
 }
 
 .projekter {
@@ -87,24 +87,24 @@ section h2 {
 }
 
 .projekt {
-    background-color: white;
-    border: 2px solid #10288C;
+    background-color: #FFFFFF;
+    border: 1px solid #6E6E73;
     padding: 20px;
     width: 200px;
     border-radius: 10px;
 }
 
 .projekt h3 {
-    color: #4B0090;
+    color: #1D1D1F;
 }
 
 .projekt a {
-    color: #000000;
+    color: #0071E3;
     text-decoration: none;
 }
 
 .projekt a:hover {
-    color: #4B0090;
+    color: #1D1D1F;
     text-decoration: underline;
 }
 
@@ -112,7 +112,7 @@ section h2 {
 /* SKILLS */
 
 #skills {
-    background-color: #FFE8F0;
+    background-color: #FFFFFF;
 }
 
 
@@ -128,19 +128,19 @@ ul {
 
 footer {
     padding: 30px;
-    background-color: #10288C;
-    color: white;
+    background-color: #1D1D1F;
+    color: #FFFFFF;
 }
 
 footer h2 {
-    color: white;
+    color: #FFFFFF;
 }
 
 footer a {
-    color: #CBE2FE;
+    color: #0071E3;
     margin: 0 10px;
 }
 
 footer a:hover {
-    color: #FFE8F0FF;
+    color: #FFFFFF;
 }
