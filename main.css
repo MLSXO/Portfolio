@@ -1,7 +1,7 @@
 /* HELE SIDEN */
 
 body {
-    font-family: Arial;
+    font-family: "Times New Roman";
     text-align: center;
     background-color: #FFFFFF;
     color: #1D1D1F;
@@ -144,3 +144,45 @@ footer a {
 footer a:hover {
     color: #FFFFFF;
 }
+
+.icon{
+    width: 50px;
+}
+
+.site-nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+.site-nav2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+.site-nav3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+.site-nav4 {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 8px;
+}
+.site-nav5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+.site-nav6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
